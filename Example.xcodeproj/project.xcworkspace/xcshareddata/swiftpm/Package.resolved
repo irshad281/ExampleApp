@@ -1,0 +1,34 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "LayoutKit",
+        "repositoryURL": "https://github.com/irshad281/LayoutKit",
+        "state": {
+          "branch": "main",
+          "revision": "2435d1fffe54f4c47f9fe14fbd1abe5cd98e3389",
+          "version": null
+        }
+      },
+      {
+        "package": "NetworkInterface",
+        "repositoryURL": "https://github.com/irshad281/NetworkInterface",
+        "state": {
+          "branch": "main",
+          "revision": "4a4569999e310451aeaed575ee298f796887a768",
+          "version": null
+        }
+      },
+      {
+        "package": "UtilityPackage",
+        "repositoryURL": "https://github.com/irshad281/UtilityPackage.git",
+        "state": {
+          "branch": "main",
+          "revision": "b3e3b5392f51056c1303ee250cb961ca88437ced",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
